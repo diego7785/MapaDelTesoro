@@ -1,0 +1,13 @@
+body{
+    background: #34495E;
+    color: #ffffff; /*Agrega color al texto*/
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    /*Centra todo el contenido*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*Posiciona el contenido en modo columna*/
+    flex-direction: column;
+}
